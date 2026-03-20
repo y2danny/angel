@@ -180,13 +180,13 @@ export const softSkills = [
 ] as const
 
 export const education = {
-  degree: 'Bachelor’s — Computer Science',
+  degree: 'Université Paris Cité - Licence Informatique',
   note: 'Additional learning via bootcamps, certifications, and ecosystem programs.',
 }
 
 export const certifications = [
   'Technical Support Fundamentals',
-  'Paris Saclay Polygon Bootcamp — Blockchain Development',
+  'Polygon Bootcamp — Blockchain Development',
   'Coursera — Blockchain Development (2023)',
   'Udemy — Solidity (beginners to masters)',
   'Buildspace · LearnWeb3DAO · Ethereum.org · Polygon (2022 cohort)',
